@@ -275,7 +275,9 @@ File: **templates/add.html**
 Django uses the `TestCase` class.
 
 ## Step 6.1 — Create tests in tasks/tests.py
-File: tasks/tests.py
+
+File: **tasks/tests.py**
+
 ```python
 from django.test import TestCase
 from django.urls import reverse
@@ -322,6 +324,7 @@ What is the command you use to run tests?
 python manage.py runserver
 ```  
 # Open a browser and go to:
+
 ```arduino
 http://127.0.0.1:8000/admin
 ```
@@ -340,4 +343,4 @@ git commit -m "Initial commit: Django TODO app"
 ```
 3. **Push to GitHub in a folder `01-todo`.**
    
-✅ Homework URL: Provide the GitHub folder link.
+✅ Homework URL: https://github.com/jcdumlao14/AI-dev-tools-zoomcamp-2025/tree/main/todo_projects
