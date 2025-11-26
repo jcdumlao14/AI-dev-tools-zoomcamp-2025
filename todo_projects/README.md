@@ -1,5 +1,8 @@
-
-Prerequisites
+# Homework 1: Introduction for AI Dev Tools Zoomcamp 2025
+In this homework, we'll build an application with AI.
+- use tool: ChatGPT
+- build a TODO application in Django.
+# Prerequisites
 - Make sure Python is installed. Check by running:
 
 ```bash
